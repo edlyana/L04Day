@@ -56,7 +56,7 @@
 //
 // export default Exercise2;
 
-// ************* Exercise 3A *************
+// ************* Exercise 3a *************
 // import React from 'react';
 // import {View, Text, StyleSheet} from 'react-native';
 //
@@ -98,7 +98,7 @@
 //
 // export default Exercise3a;
 
-// ************* Exercise 3B *************
+// ************* Exercise 3b *************
 // import React from 'react';
 // import {View, Text, StyleSheet} from 'react-native';
 //
@@ -130,7 +130,7 @@
 //
 // export default Exercise3b;
 
-// ************* Exercise 3C *************
+// ************* Exercise 3c *************
 // import React from 'react';
 // import {View, Text, StyleSheet} from 'react-native';
 //
@@ -162,7 +162,7 @@
 //
 // export default Exercise3c;
 
-// ************* Exercise 3D *************
+// ************* Exercise 3d *************
 // import React from 'react';
 // import {View, Text, StyleSheet} from 'react-native';
 //
@@ -192,7 +192,7 @@
 //
 // export default Exercise3d;
 
-// ************* Exercise 3E *************
+// ************* Exercise 3e *************
 // import React from 'react';
 // import {View, Text, StyleSheet} from 'react-native';
 //
